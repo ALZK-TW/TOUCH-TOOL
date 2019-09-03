@@ -1,0 +1,29 @@
+#C:\Users\hukid\CapTIvateDesignCenter_1_70_00_03\CapTIvateDesignCenterWorkspace\MF-W_4x3_PRX/.plotProps/MSP430FR2633IRHB_BarPlot.props Plotter Data
+#Mon Jun 10 09:24:16 GMT+08:00 2019
+ymin=0.000000
+ylabel=Channel Data
+Count=on
+Signal.alias.Prox\ Threshold=
+xrangetype=false
+graphtype=PtsCon
+Prox\ Threshold=on
+xmax=14.000000
+Signal.alias.Touch\ Threshold=
+Signal.alias.GRID=
+vert_data_grid=false
+Signal.alias.Delta=
+xlabel=Time
+xmin=-1.000000
+Touch\ Threshold=on
+labelFont=helvetica-BOLD-12
+yrangetype=false
+GRID=on
+Signal.alias.Count=
+horiz_data_grid=true
+titleFont=helvetica-BOLD-24
+Signal.alias.Lta=
+ymax=1000.000000
+Delta=on
+Lta=on
+persistence=2000
+legendFont=helvetica-BOLD-14

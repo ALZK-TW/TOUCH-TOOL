@@ -1,0 +1,27 @@
+#C:\Users\hukid\CapTIvateDesignCenter_1_70_00_03\CapTIvateDesignCenterWorkspace\MF-W_4x3_PRX/.plotProps/PRX00_OscilloscopePlot.props Plotter Data
+#Tue Jul 16 10:09:11 GMT+08:00 2019
+E00\ Count=on
+E00\ Touch=off
+ymin=0.000000
+ylabel=Channel Data
+Signal.alias.E00\ Count=
+Signal.alias.E00\ Touch=
+Signal.alias.E00\ Lta=
+xrangetype=true
+graphtype=PtsCon
+xmax=10.000000
+vert_data_grid=false
+xlabel=Time
+Signal.alias.E00\ Delta=
+Signal.alias.E00\ Prox=
+xmin=0.000000
+E00\ Delta=off
+labelFont=helvetica-BOLD-12
+yrangetype=true
+titleFont=helvetica-BOLD-24
+horiz_data_grid=true
+E00\ Prox=off
+ymax=10.000000
+E00\ Lta=on
+persistence=2000
+legendFont=helvetica-BOLD-14
